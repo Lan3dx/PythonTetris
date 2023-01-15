@@ -2,5 +2,5 @@
 CLI Tetris
 
 # Control
-left / right / up / down - move shape
+left / right / down - move shape
 space - rotate shape
